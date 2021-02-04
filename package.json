@@ -1,0 +1,24 @@
+{
+  "name": "k8s-toolbox",
+  "version": "1.0.0",
+  "description": "k8s工具箱",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenkonghui/k8s-toolbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenkonghui/k8s-toolbox/issues"
+  },
+  "homepage": "https://github.com/shenkonghui/k8s-toolbox#readme",
+  "devDependencies": {
+    "electron": "^11.2.2"
+  }
+}
