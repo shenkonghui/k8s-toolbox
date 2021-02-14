@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Router from './App'
+import Sider from './sider'
 
 ReactDOM.render(
-  <Router/>,
+  <div className="index">
+      <Sider/>
+  </div>,
   document.getElementById('root')
 );
